@@ -1,7 +1,7 @@
 # Juego-3-rayas
 Juego Michi - 3 Rayas HTML, CSS, JavaScript
 
-![stack Overflow](/img/main.png)
+![Juego 3 Rayas - Michi](/img/main.png)
 
 Mi nombre es Alex Principe. Soy un desarrollador Full stack que comparte código de programación con la comunidad.
 Este repo contiene un pequeño ejemplo de construcción de juego usando JavaScript, HTML5 y CSS.
