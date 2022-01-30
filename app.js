@@ -6,6 +6,9 @@ let n_boton;
 const jBtn_e = "pointer-events:initial;opacity:initial;";
 const jBtn_d = "pointer-events:none;opacity:40%;";
 
+/**
+ * event to restart an initialize the game
+ */
 juego_btn.onclick = function () {
   for (n_boton = 0; n_boton < cuadro_btn.length; n_boton++) {
     cuadro_btn[n_boton].style.cssText = "pointer-events:initial;";
